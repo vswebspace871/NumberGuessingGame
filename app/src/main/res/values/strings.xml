@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NumberGuessingGame</string>
+    <string name="number_guessing_n_game">Number Guessing\n Game</string>
+    <string name="image">image</string>
+    <string name="infotext">Please Select A Number of Digits.
+    The Number of digits that i keep in my mind and \n the number of digits you choose will be the same. Also \n
+    never forget that you have ten chance</string>
+</resources>
